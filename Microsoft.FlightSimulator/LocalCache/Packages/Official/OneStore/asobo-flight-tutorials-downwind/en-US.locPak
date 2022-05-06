@@ -107,7 +107,7 @@
       "NavInstruments.Dlg_Intro3Reminder": "準備ができたらいつ離陸してもかまいません。",
       "NavInstruments.Dlg_SetCruise0": "機体を巡航姿勢に設定しましょう。",
       "NavInstruments.Dlg_SetCruise0_MALE": "機体を巡航姿勢に設定しましょう。",
-      "TrafficPattern.Briefing": "飛行中に重要なのは安全性です。この訓練セッションでは、初期上昇からファイナル アプローチ（Final approach）まで、標準のトラフィック パターン（Traffic Pattern）に従う手順を学びます:\r\n<br\/>\r\n<br\/><li> トラフィック パターン（Traffic Pattern）に入る <\/li>\r\n<br\/><li> パターン中の各レグを安全にナビゲーションする<\/li>\r\n<br\/><li> 飛行場の目視確認を維持する<\/li>\r\n<br\/><li> 他の航空機に注意すべき場所と、その避け方を知る<\/li>",
+      "TrafficPattern.Briefing": "Up in the air, safety is key. This training session covers the process for following a standard traffic pattern, from initial climb to final approach:\r\n<br\/>\r\n<br\/><li> Enter the traffic pattern <\/li>\r\n<br\/><li> Safely navigate each leg of the pattern<\/li>\r\n<br\/><li> Maintain visual contact with the airfield<\/li>\r\n<br\/><li> Know where to expect other air traffic and how to avoid it<\/li>",
       "TrafficPattern.Dlg_Downwind1": "今は追い風が吹いています。コースに問題はありません...",
       "TrafficPattern.Dlg_Downwind1_MALE": "よし。ダウンウィンド レグ（Downwind Leg）に入りました。",
       "TrafficPattern.Dlg_Downwind2": "機首を下げて巡航姿勢にし、出力を 2,100 回転に下げてください。",
@@ -168,7 +168,7 @@
       "TrafficPattern.Dlg_UnexpectedLanding3_MALE": "教習はやり直すことができます。",
       "TrafficPattern.Dlg_WrongPosition": "そこへはまだ行けません。所定の位置に戻ってやり直しましょう。",
       "TrafficPattern.Dlg_WrongPosition_MALE": "そうではありません。所定の位置に戻ってやり直しましょう。",
-      "TrafficPattern.Failed_Training": "教習は不合格です。",
+      "TrafficPattern.Failed_Training": "You failed to complete the lesson.",
       "TrafficPattern.GOAL_CompleteTrafficPattern": "標準のトラフィック パターン（Traffic Pattern）を完了する",
       "TrafficPattern.GOAL_TakeOff": "滑走路 21 から離陸する（Take-Off on Runway 21）",
       "TrafficPattern.STEP_5400ft": "5,400 フィートに到達する（Reach 5400 ft）",
@@ -181,7 +181,7 @@
       "TrafficPattern.STEP_Maintain75kts": "67 ノットを維持する（Maintain 67 knots）",
       "TrafficPattern.STEP_TakeOff": "離陸する（Take-Off）",
       "TrafficPattern.STEP_Taxi": "誘導路に機体を停める（Stop aircraft on a taxiway）",
-      "TrafficPattern.Training_Complete": "トラフィック パターン（Traffic Pattern）訓練を完了する"
+      "TrafficPattern.Training_Complete": "Complete Traffic Pattern Training"
     }
   }
 }

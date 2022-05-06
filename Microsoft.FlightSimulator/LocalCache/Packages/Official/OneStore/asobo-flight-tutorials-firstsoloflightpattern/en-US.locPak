@@ -47,7 +47,7 @@
       "FirstSoloFlight.Dlg_UnexpectedLanding3_MALE": "教習はやり直すことができます。",
       "FirstSoloFlight.Dlg_WrongPosition": "まだ離陸（Take-Off）はできません。ポジションに戻ってやり直しましょう。",
       "FirstSoloFlight.Dlg_WrongPosition_MALE": "まだ離陸（Take-Off）はできません。ポジションに戻ってやり直しましょう。",
-      "FirstSoloFlight.Failed_Training": "教習は不合格です。",
+      "FirstSoloFlight.Failed_Training": "You failed to complete the lesson.",
       "FirstSoloFlight.GOAL_Base": "Base leg",
       "FirstSoloFlight.GOAL_Complete_TrafficPattern": "Complete Standard Traffic Pattern",
       "FirstSoloFlight.GOAL_Crosswind": "Crosswind leg",
@@ -101,7 +101,7 @@
       "FirstSoloFlight.STEP_Throttle": "スロットルを下げてアイドリングにする（Reduce throttle to idle）",
       "FirstSoloFlight.STEP_Touchdown": "機体が着陸するまで続ける（Continue until aircraft touches down）",
       "FirstSoloFlight.STEP_Upwind_End": "アップウィンド レグの最後に到達する（Reach the end of the Upwind leg）",
-      "FirstSoloFlight.Training_Complete": "初回の単独飛行訓練を完了する"
+      "FirstSoloFlight.Training_Complete": "Complete First Solo Flight Training"
     }
   }
 }
