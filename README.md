@@ -1,6 +1,13 @@
-# msfs2020-tutorials-ja
+﻿# msfs2020-tutorials-ja
 
-## msfs2020 install folder
+## Summary（概要）
+
+For many reasons, it is necessary to set the MSFS2020 language setting to English. But I wanted the tutorial instructions to be displayed in Japanese.
+色んな理由でMSFS2020の言語設定を英語にする必要がありますが、チュートリアルの説明は日本語にしたいと思いました。
+
+## Reference（参考）
+
+### MSFS2020 install folder（インストール先）
 
 ```
 For the Windows Store install:
